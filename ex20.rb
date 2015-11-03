@@ -38,6 +38,7 @@ puts "Let's print three lines:"
 # using "print_a_line" function above, start with line 1, print line count, and text of line.
 # current_line = line 1
 # changed "current_line = current_line + 1" => "current_line += 1"
+# resource: http://www.tutorialspoint.com/ruby/ruby_operators.htm
 
 current_line = 1
 print_a_line(current_line, current_file)
